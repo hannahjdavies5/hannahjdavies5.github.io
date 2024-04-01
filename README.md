@@ -60,8 +60,16 @@ var foo = function (bar) {
 
 ## Tables
 | option | description |
+| ------ | ----------- |
 | data   | path to data files that will sdkfsdf |
 | engine | engine to be used. |
+
+right aligned columns
+| option | description |
+| -----: | ----------: |
+| data   | path to data files that will sdkfsdf |
+| engine | engine to be used. |
+
 
 ## Links
 [link text] (http://dev.nodeca.com)
