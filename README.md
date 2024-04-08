@@ -2,101 +2,67 @@
 ____
 (801) 388 - 4315   |   hannahjdavies5@gmail.com   |   linkedin.com/in/hannahjdavies5 
 
-## Education
+## :books: Education 
 ____
-**Utah State University, Mathematics & Statistics Department**
+**Utah State University, Mathematics & Statistics Department** \
 *Master of Data Analytics with Statistics Emphasis*
 + 30 credit | 2-year graduate program | GPA 3.89
 + Coursework: Machine Learning, R and SAS Programming, Visualizations in R
-+ Graduate Vice President for the Association of Information Systems
 
-**Utah State University, Jon M. Huntsman School of Business**
+**Utah State University, Jon M. Huntsman School of Business** \
 *Bachelor of Science, Data Analytics*
 + GPA: 3.99
 + Coursework: Machine Learning, Database Management, Python Programming, Linear Algebra
-+ Recipient: Department of Data Analytics & IS Excellence Award: Outstanding work and involvement
-+ Recipient: A-Pin Award: Earned above 3.5 GPA in 15 or more graded credits for 2 consecutive semesters
 
-## Experience
+## :woman_teacher: Academic Positions
+____
+**Utah State University, Mathematics & Statistics Department**
++ Lecturer, College Prep Math (Summer 2024)
++ Recitation Leader, College Prep Math (Spring 2024)
+  
+**Utah State University, Jon M. Huntsman School of Business**
++ Head Teaching Assistant, Freshmen Academy (2023 - 2024)
++ Teaching Assistant, Intermediate Economics (Fall 2023)
++ Teaching Assistant, Managerial Economics (Spring 2023)
++ Recitation Leader, Introduction to Information Systems (2021 - 2022)
+
+## :seedling: Mentorship
 ____
 
-
-## Projects
+## :bulb:	Teaching Innovations
 ____
+**R Bytes, YouTube Channel**
++ YouTube series designed to explain R Programming concepts in "byte" size pieces
+  - Data Visualization Tutorials
+    + [ggplot Bump Chart Tutorial](https://www.youtube.com/watch?v=D3aKGa6DuVg&t=3s)
+  - Innovative Tools
+    + [GitHub Copilot in R Studio](https://www.youtube.com/watch?v=vgSOIMj6a8k)
+  
+**Empowering Teaching Excellence (ETE) Graduate Instructor**
++ Completed 1 Badge
 
-
-
-
-# Handy Tools
-# h1 Heading
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
-
-## Horizontal Rules
-
+## :microscope: Research
 ____
+#### Working Papers
+Navigating the Zone: Unveiling the Impact of Small Teaching Tactics on Student Performance (with Bob Mills, Tanya Beaulieu, and Emily fyfe)
 
-## Emphasis
-**This is bold text**
-__This is bold text__
-*This is italic text*
-_This is italic text_
+## :broom: Service
+____
+2023-Present, Graduate Student Vice President, Association for Information Systems
 
-~~Strikethrough~~
+## :trophy: Awards
+____
+2024, Student Employee of the Year Nominee \
+2023, Department of Data Analytics & IS Excellence Award: Outstanding work and involvement \
+2023, A-Pin Award: Earned above 3.5 GPA in 15 or more graded credits for 2 consecutive semesters
 
-## Block quotes
-> Block quotes can also be nested...
-> > ...by using additional greater than signs...
-> > > ...or with spaces between errors
+## :scroll: Certifications
+____
+Tableau Desktop Specialist \
+Microsoft Office Specialist: Excel and Excel 2019 \
+CITI Human Research Basic Course (expires Nov, 2026)
 
-## Lists 
-
-Unordered
-+ Create a list by starting a line with '+', '-', or '*'
-+ Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start
-  * Ac sglkjdflkadf
-  * kjasdgkj
-  - sdijflsd
-+ very easy!
-
-Ordered
-
-1. adfsg;lkad;fg
-2. laskdgjlasfg
-3. afdssgkladf
-
-## Code
-Inline 'code'
-
-''' js
-var foo = function (bar) {
-  return bar++;
-};
-'''
-
-## Tables
-| option | description |
-| ------ | ----------- |
-| data   | path to data files that will sdkfsdf |
-| engine | engine to be used. |
-
-right aligned columns
-| option | description |
-| -----: | ----------: |
-| data   | path to data files that will sdkfsdf |
-| engine | engine to be used. |
-
-
-## Links
-[link text] (http://dev.nodeca.com)
-[link with title] (http://nodeca.github.io/pica/demo/ "title text!")
-
-## Images
-![Minion] (https://octodex.github.com/images/minion.png)
-
-
-
+## :desktop_computer: Industry Experience
+____
+Business Intelligence Intern, FamilySearch, Salt Lake City, UT, 2022-2023 \
+Data Analyst, Analytics Solution Center, Logan, UT, 2022
