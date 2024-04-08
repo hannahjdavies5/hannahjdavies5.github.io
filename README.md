@@ -2,11 +2,29 @@
 ____
 (801) 388 - 4315   |   hannahjdavies5@gmail.com   |   linkedin.com/in/hannahjdavies5 
 
-## Education ____
+## Education
+____
+**Utah State University, Mathematics & Statistics Department**
+*Master of Data Analytics with Statistics Emphasis*
++ 30 credit | 2-year graduate program | GPA 3.89
++ Coursework: Machine Learning, R and SAS Programming, Visualizations in R
++ Graduate Vice President for the Association of Information Systems
 
-## Experience ____
+**Utah State University, Jon M. Huntsman School of Business**
+*Bachelor of Science, Data Analytics*
++ GPA: 3.99
++ Coursework: Machine Learning, Database Management, Python Programming, Linear Algebra
++ Recipient: Department of Data Analytics & IS Excellence Award: Outstanding work and involvement
++ Recipient: A-Pin Award: Earned above 3.5 GPA in 15 or more graded credits for 2 consecutive semesters
 
-## Projects ____
+## Experience
+____
+
+
+## Projects
+____
+
+
 
 
 # Handy Tools
