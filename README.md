@@ -1,14 +1,12 @@
 # Hannah Jean Davies
 ____
-(801) 388 - 4315  |  hannahjdavies5@gmail.com  |  [link text] linkedin.com/in/hannahjdavies5![image](https://github.com/hannahjdavies5/hannahjdavies5.github.io/assets/123395742/a25e6fa4-2396-42bd-8c77-ed11b4494ee3)
+(801) 388 - 4315   |   hannahjdavies5@gmail.com   |   linkedin.com/in/hannahjdavies5 
 
+## Education ____
 
+## Experience ____
 
-## Education
-
-## Experience
-
-## Projects
+## Projects ____
 
 
 # Handy Tools
