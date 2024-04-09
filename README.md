@@ -6,7 +6,7 @@ ____
 ____
 **Utah State University, Mathematics & Statistics Department** \
 *Master of Data Analytics with Statistics Emphasis*
-+ 30 credit | 2-year graduate program | GPA 3.89
++ GPA 3.89
 + Coursework: Machine Learning, R and SAS Programming, Visualizations in R
 
 **Utah State University, Jon M. Huntsman School of Business** \
